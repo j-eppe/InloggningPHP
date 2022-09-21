@@ -1,6 +1,6 @@
 <?php
 if ($_POST["name"] === "jesblo") {
-    if ($_POST["password"] === "balle") {
+    if ($_POST["password"] === "snögubbe") {
         echo "Inloggning avklarad!";
     } else {
         echo "Inloggning misslyckad!";
